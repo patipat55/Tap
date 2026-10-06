@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TapSeq</string>
+    <string name="service_desc">ใช้กดหน้าจอตามลำดับที่ผู้ใช้ตั้งไว้เท่านั้น เริ่มและหยุดโดยผู้ใช้</string>
+</resources>
